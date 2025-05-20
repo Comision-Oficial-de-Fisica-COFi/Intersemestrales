@@ -1,0 +1,229 @@
+PRIMER SEMESTRE
+06 Física Contemporánea
+10 Álgebra
+10 Geometría Analítica I
+18 Cálculo Diferencial e Integral I
+06 Computación
+
+SEGUNDO SEMESTRE
+12 Mecánica Vectorial
+06 Laboratorio de Mecánica
+10 Geometría Analítica II
+18 Cálculo Diferencial e Integral II
+
+TERCER SEMESTRE
+12 Fenómenos Colectivos
+06 Laboratorio de Fenómenos Colectivos
+10 Álgebra Lineal I
+18 Cálculo Diferencial e Integral III
+
+CUARTO SEMESTRE
+12 Electromagnetismo I
+06 Laboratorio de Electromagnetismo
+10 Ecuaciones Diferenciales I
+18 Cálculo Diferencial e Integral IV
+
+QUINTO SEMESTRE
+12 Introducción a la Física Cuántica
+12 Óptica
+06 Laboratorio de Óptica
+10 Variable Compleja I
+06 Optativa
+
+SEXTO SEMESTRE
+12 Mecánica Analítica
+12 Termodinámica
+10 Matemáticas Avanzadas de la Física
+06 Relatividad
+
+SÉPTIMO SEMESTRE
+12 Electromagnetismo II
+12 Mecánica Cuántica
+06 Laboratorio de Electrónica
+12 Física Computacional
+
+OCTAVO SEMESTRE
+06 Física Atómica y Materia Condensada
+06 Laboratorio de Física Contemporánea I
+12 Dinámica de Medios Deformables
+12 Física Estadística
+
+NOVENO SEMESTRE
+06 Física Nuclear y Subnuclear
+06 Laboratorio de Física Contemporánea II
+
+OPTATIVAS
+--Área Acústica
+09 Introducción a la Acústica Contemporánea
+09 Acústica en Fluidos
+09 Acústica en Sólidos
+06 Temas Selectos de Acústica I
+06 Temas Selectos de Acústica II
+06 Temas Selectos de Acústica III
+
+--Área Astrofísica
+06 Astrofísica General
+06 Estructura, Dinámica y Evolución de la Galaxia
+06 Materia Interestelar
+06 Astrofísica Extragaláctica y Cosmología
+06 Astrofísica Estelar
+06 Temas Selectos de Astrofísica I
+06 Temas Selectos de Astrofísica II
+06 Temas Selectos de Astrofísica III
+
+--Área Biofísica y Física Médica
+06 Introducción a la Biofísica y Física Médica
+09 Biofísica General
+09 Física y Medicina
+06 Métodos Físicos para el Estudio de Sistemas Biológicos
+06 Métodos Físicos para el Diagnóstico y Tratamiento en Medicina
+06 Temas Selectos de Biofísica y Física Médica I
+06 Temas Selectos de Biofísica y Física Médica II
+
+--Área Ciencias de la Tierra
+06 Introducción a las Ciencias de la Tierra
+09 Geofísica Aplicada
+09 Geomagnetismo y Tectónica de Placas
+09 Geología y Geofísica Aplicada
+09 Dinámica de Fluidos Geofísicos
+06 Física del Interior de la Tierra
+09 Sismología y Vulcanología
+06 Introducción a la Física Espacial
+06 Introducción a la Oceanografía Física
+09 Introducción a los Plasmas Espaciales
+06 Meteorología
+09 Dinámica del Clima
+09 Meteorología y Sociedad
+06 Temas Selectos de Ciencias de la Tierra I
+06 Temas Selectos de Ciencias de la Tierra II
+06 Temas Selectos de Ciencias de la Tierra III
+
+--Área Electrónica e Instrumentación
+09 Circuitos Digitales con Laboratorio
+09 Máquinas Digitales con Laboratorio
+09 Señales y Circuitos Eléctricos
+09 Adquisición y Procesamiento de Señales
+09 Instrumentación Científica
+09 Robótica y Control
+09 Temas Selectos de Electrónica e Instrumentación I
+09 Temas Selectos de Electrónica e Instrumentación II
+09 Temas Selectos de Electrónica e Instrumentación III
+
+--Área Estado Sólido
+06 Introducción al Estado Sólido
+12 Estado Sólido I
+12 Estado Sólido II
+06 Temas Selectos de Estado Sólido I
+06 Temas Selectos de Estado Sólido II
+06 Temas Selectos de Estado Sólido III
+
+--Área Filosofía e Historia de la Física
+06 Filosofía de la Física I
+06 Filosofía de la Física II
+06 Temas Selectos de Filosofía de la Física
+
+--Área Física Atómica y Molecular
+12 Introducción a la Física Atómica y Molecular
+06 Temas Selectos de Física Atómica y Molecular I
+06 Temas Selectos de Física Atómica y Molecular II
+
+--Área Física Computacional
+06 Métodos Numéricos y Algoritmos Computacionales
+06 Temas Selectos de Física Computacional I
+06 Temas Selectos de Física Computacional II
+06 Temas Selectos de Física Computacional III
+
+--Área Física de Materiales
+12 Introducción a la Física de los Materiales
+08 Propiedades Mecánicas
+08 Física de la Materia Condensada Blanda
+08 Estructura Electrónica de los Materiales
+06 Temas Selectos de Física de los Materiales I
+06 Temas Selectos de Física de los Materiales II
+06 Temas Selectos de Física de los Materiales III
+
+--rea Física de Partículas Elementales
+06 Introducción a la Física de las Partículas Elementales I
+06 Introducción a la Física de las Partículas Elementales II
+06 Temas Selectos de Física de Partículas Elementales I
+06 Temas Selectos de Física de Partículas Elementales II
+06 Temas Selectos de Física de Partículas Elementales III
+
+--Área Física de Plasmas
+06 Física de Plasmas I
+06 Física de Plasmas II
+06 Física de los Plasmas de Baja Temperatura
+06 Función Nuclear Controlada
+06 Temas Selectos de Física de Plasmas I
+06 Temas Selectos de Física de Plasmas II
+
+--Área Física de Radiaciones
+06 Introducción a la Física de Radiaciones
+09 Dosimetría de la Radiación
+07 Seguridad Radiológica
+09 Técnica de Radioisótopos
+06 Temas Selectos de Física de Radiaciones I
+06 Temas Selectos de Física de Radiaciones II
+06 Temas Selectos de Física de Radiaciones III
+
+--Área Física Matemática y Teórica
+06 Simetrías en Mecánica Cuántica
+06 Topología y Geometría Diferencial para Físicos
+06 Temas Selectos de Física Matemática y Teórica I
+06 Temas Selectos de Física Matemática y Teórica II
+06 Temas Selectos de Física Matemática y Teórica III
+
+--Área Física Nuclear
+09 Introducción a la Física Nuclear
+06 Temas Selectos de Física Nuclear I
+06 Temas Selectos de Física Nuclear II
+06 Temas Selectos de Física Nuclear III
+
+--Área Materia Condensada Suave
+12 Introducción a los Sistemas Químicos y Biológicos
+12 Materia Condensada Suave
+06 Temas Selectos de Materia Condensada Suave
+
+--Área Mecánica de Fluidos
+06 Elementos de Mecánica de Fluidos
+06 Mecánica de Fluidos Avanzada
+06 Temas Selectos de Mecánica de Fluidos I
+06 Temas Selectos de Mecánica de Fluidos II
+06 Temas Selectos de Mecánica de Fluidos III
+
+--Área Óptica
+09 Introducción a la Óptica Cuántica
+06 Láseres
+06 Óptica Geométrica
+06 Óptica de Fourier
+06 Temas Selectos de Óptica I
+06 Temas Selectos de Óptica II
+06 Temas Selectos de Óptica III
+
+--Área Relatividad, Cosmología y Gravitación
+06 Gravitación y Relatividad General
+06 Cosmología Física
+06 Astrofísica Relativista
+06 Temas Selectos de Relatividad, Cosmología y Gravitación I
+06 Temas Selectos de Relatividad, Cosmología y Gravitación II
+06 Temas Selectos de Relatividad, Cosmología y Gravitación III
+
+--Área Técnicas Especiales
+09 Introducción a la Fotografía Científica
+09 Fotografía Digital
+09 Temas Selectos de Fotografía
+06 Taller
+06 Aplicaciones de Taller
+09 Introducción a la Tecnología de Vacío y Aplicaciones
+09 Técnicas de Crecimiento de Películas Delgadas y
+
+--Recubrimiento en Vacío
+06 Temas Selectos de Tecnología del Vacío I
+06 Temas Selectos de Tecnología del Vacío II
+
+--Área Termodinámica y Física Estadística
+06 Fenómenos Cooperativos I
+06 Fenómenos Cooperativos II
+06 Temas Selectos de Termodinámica y Física Estadística I
+06 Temas Selectos de Termodinámica y Física Estadística II
+06 Temas Selectos de Termodinámica y Física Estadística III

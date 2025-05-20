@@ -1,0 +1,107 @@
+PRIMER SEMESTRE
+10 Introducción a la Física del Cuerpo Humano
+08 Metodología de la Física Experimental
+14 Cálculo Diferencial e Integral I
+08 Álgebra
+04 Inglés
+
+SEGUNDO SEMESTRE
+12 Mecánica Vectorial
+08 Medición y Análisis en la Física Experimental
+14 Cálculo Diferencial e Integral II
+08 Geometría Analítica I
+08 Bioquímica
+04 Inglés
+
+TERCER SEMESTRE
+12 Fenómenos Colectivos
+08 Instrumentación y Calibración
+16 Cálculo Avanzado
+08 Álgebra Lineal
+08 Morfofuncional I
+04 Inglés
+
+CUARTO SEMESTRE
+12 Electromagnetismo I
+08 Elaboración y Desarrollo de Proyectos Experimentales
+06 Algoritmos Computacionales
+08 Ecuaciones Diferenciales I
+06 Morfofuncional II
+04 Optativa (Humanidades)
+04 Inglés
+
+QUINTO SEMESTRE
+12 Óptica
+12 Introducción a la Física Cuántica
+10 Física Computacional
+10 Matemáticas Avanzadas
+06 Anatomía Radiológica
+04 Inglés
+
+SEXTO SEMESTRE
+12 Electromagnetismo II
+12 Interacción de la Radiación con la Materia
+12 Termofísica
+05 Bioestadística
+10 Física del Cuerpo Humano
+04 Inglés
+
+SÉPTIMO SEMESTRE
+12 Mecánica Cuántica
+08 Instrumentación Biomédica
+06 Introducción a la Oncología
+
+OCTAVO SEMESTRE
+09 Seguridad Radiológica
+09 Imagenología Biomédica
+
+PROFUNDIZACIÓN
+--Ciencias Médicas y de la Salud
+06 Sistemas Híbridos en Biomedicina
+09 Dosimetría
+
+--Ciencias Biológicas
+12 Física Biológica
+09 Sistemas Dinámicos de la Fisiología
+
+OPTATIVAS
+--Humanidades
+04 Historia y Filosofía del Pensamiento Científico
+04 Ciencia, Tecnología y Sociedad
+04 Filosofía de la Tecnología
+04 Filosofía de la Ciencia
+04 Las Relaciones Interpersonales en el Ambiente Hospitalario
+04 México Nación Multicultural
+04 Bioética
+
+--Ciencias Médicas y de la Salud
+06 Radiobiología
+06 Física de la Resonancia Magnética
+09 Física del Ultrasonido Médico
+09 Reconstrucción de Imágenes Biomédicas
+09 Biosensores
+06 Física de la Radioterapia
+06 Física de la Medicina Nuclear
+09 Física del Radiodiagnóstico
+06 Garantía de Calidad de Equipos de Rayos X
+06 Temas Selectos en Instrumentación Biomédica
+06 Temas Selectos en Física de la Terapia Médica
+06 Temas Selectos en Física del Diagnóstico Médico
+
+--Ciencias Biológicas
+09 Dinámica de Biofluidos
+09 Biomateriales
+09 Biofotónica
+06 Electrofisiología
+09 Ecuaciones Diferenciales Parciales
+04 Aplicaciones de la Histología en la Neuropatología
+04 Teoría Celular
+04 Introducción a la Antropología Física y Forense
+04 Epigenética
+04 Genómica Viral
+04 Fisiopatología de la Hiperexcitabilidad Neuronal
+06 Temas Selectos en Física Biológica
+06 Temas Selectos en Biofísica
+06 Temas Selectos en Cómputo de Alto Desempeño
+06 Temas Selectos en Biomatemáticas
+06 Termodinámica y Sistemas Biológicos

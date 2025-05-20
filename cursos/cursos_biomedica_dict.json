@@ -1,0 +1,422 @@
+{
+    "PRIMER SEMESTRE": [
+        {
+            "nombre": "introduccion a la fisica del cuerpo humano",
+            "creditos": 10,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "metodologia de la fisica experimental",
+            "creditos": 8,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "calculo diferencial e integral i",
+            "creditos": 14,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "algebra",
+            "creditos": 8,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "ingles",
+            "creditos": 4,
+            "area": "obligatoria"
+        }
+    ],
+    "SEGUNDO SEMESTRE": [
+        {
+            "nombre": "mecanica vectorial",
+            "creditos": 12,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "medicion y analisis en la fisica experimental",
+            "creditos": 8,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "calculo diferencial e integral ii",
+            "creditos": 14,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "geometria analitica i",
+            "creditos": 8,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "bioquimica",
+            "creditos": 8,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "ingles",
+            "creditos": 4,
+            "area": "obligatoria"
+        }
+    ],
+    "TERCER SEMESTRE": [
+        {
+            "nombre": "fenomenos colectivos",
+            "creditos": 12,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "instrumentacion y calibracion",
+            "creditos": 8,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "calculo avanzado",
+            "creditos": 16,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "algebra lineal",
+            "creditos": 8,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "morfofuncional i",
+            "creditos": 8,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "ingles",
+            "creditos": 4,
+            "area": "obligatoria"
+        }
+    ],
+    "CUARTO SEMESTRE": [
+        {
+            "nombre": "electromagnetismo i",
+            "creditos": 12,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "elaboracion y desarrollo de proyectos experimentales",
+            "creditos": 8,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "algoritmos computacionales",
+            "creditos": 6,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "ecuaciones diferenciales i",
+            "creditos": 8,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "morfofuncional ii",
+            "creditos": 6,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "optativa (humanidades)",
+            "creditos": 4,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "ingles",
+            "creditos": 4,
+            "area": "obligatoria"
+        }
+    ],
+    "QUINTO SEMESTRE": [
+        {
+            "nombre": "optica",
+            "creditos": 12,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "introduccion a la fisica cuantica",
+            "creditos": 12,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "fisica computacional",
+            "creditos": 10,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "matematicas avanzadas",
+            "creditos": 10,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "anatomia radiologica",
+            "creditos": 6,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "ingles",
+            "creditos": 4,
+            "area": "obligatoria"
+        }
+    ],
+    "SEXTO SEMESTRE": [
+        {
+            "nombre": "electromagnetismo ii",
+            "creditos": 12,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "interaccion de la radiacion con la materia",
+            "creditos": 12,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "termofisica",
+            "creditos": 12,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "bioestadistica",
+            "creditos": 5,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "fisica del cuerpo humano",
+            "creditos": 10,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "ingles",
+            "creditos": 4,
+            "area": "obligatoria"
+        }
+    ],
+    "S\u00c9PTIMO SEMESTRE": [
+        {
+            "nombre": "mecanica cuantica",
+            "creditos": 12,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "instrumentacion biomedica",
+            "creditos": 8,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "introduccion a la oncologia",
+            "creditos": 6,
+            "area": "obligatoria"
+        }
+    ],
+    "OCTAVO SEMESTRE": [
+        {
+            "nombre": "seguridad radiologica",
+            "creditos": 9,
+            "area": "obligatoria"
+        },
+        {
+            "nombre": "imagenologia biomedica",
+            "creditos": 9,
+            "area": "obligatoria"
+        }
+    ],
+    "PROFUNDIZACI\u00d3N": [
+        {
+            "nombre": "sistemas hibridos en biomedicina",
+            "creditos": 6,
+            "area": "Ciencias M\u00e9dicas y de la Salud"
+        },
+        {
+            "nombre": "dosimetria",
+            "creditos": 9,
+            "area": "Ciencias M\u00e9dicas y de la Salud"
+        },
+        {
+            "nombre": "fisica biologica",
+            "creditos": 12,
+            "area": "Ciencias Biol\u00f3gicas"
+        },
+        {
+            "nombre": "sistemas dinamicos de la fisiologia",
+            "creditos": 9,
+            "area": "Ciencias Biol\u00f3gicas"
+        }
+    ],
+    "OPTATIVAS": [
+        {
+            "nombre": "historia y filosofia del pensamiento cientifico",
+            "creditos": 4,
+            "area": "Humanidades"
+        },
+        {
+            "nombre": "ciencia, tecnologia y sociedad",
+            "creditos": 4,
+            "area": "Humanidades"
+        },
+        {
+            "nombre": "filosofia de la tecnologia",
+            "creditos": 4,
+            "area": "Humanidades"
+        },
+        {
+            "nombre": "filosofia de la ciencia",
+            "creditos": 4,
+            "area": "Humanidades"
+        },
+        {
+            "nombre": "las relaciones interpersonales en el ambiente hospitalario",
+            "creditos": 4,
+            "area": "Humanidades"
+        },
+        {
+            "nombre": "mexico nacion multicultural",
+            "creditos": 4,
+            "area": "Humanidades"
+        },
+        {
+            "nombre": "bioetica",
+            "creditos": 4,
+            "area": "Humanidades"
+        },
+        {
+            "nombre": "radiobiologia",
+            "creditos": 6,
+            "area": "Ciencias M\u00e9dicas y de la Salud"
+        },
+        {
+            "nombre": "fisica de la resonancia magnetica",
+            "creditos": 6,
+            "area": "Ciencias M\u00e9dicas y de la Salud"
+        },
+        {
+            "nombre": "fisica del ultrasonido medico",
+            "creditos": 9,
+            "area": "Ciencias M\u00e9dicas y de la Salud"
+        },
+        {
+            "nombre": "reconstruccion de imagenes biomedicas",
+            "creditos": 9,
+            "area": "Ciencias M\u00e9dicas y de la Salud"
+        },
+        {
+            "nombre": "biosensores",
+            "creditos": 9,
+            "area": "Ciencias M\u00e9dicas y de la Salud"
+        },
+        {
+            "nombre": "fisica de la radioterapia",
+            "creditos": 6,
+            "area": "Ciencias M\u00e9dicas y de la Salud"
+        },
+        {
+            "nombre": "fisica de la medicina nuclear",
+            "creditos": 6,
+            "area": "Ciencias M\u00e9dicas y de la Salud"
+        },
+        {
+            "nombre": "fisica del radiodiagnostico",
+            "creditos": 9,
+            "area": "Ciencias M\u00e9dicas y de la Salud"
+        },
+        {
+            "nombre": "garantia de calidad de equipos de rayos x",
+            "creditos": 6,
+            "area": "Ciencias M\u00e9dicas y de la Salud"
+        },
+        {
+            "nombre": "temas selectos en instrumentacion biomedica",
+            "creditos": 6,
+            "area": "Ciencias M\u00e9dicas y de la Salud"
+        },
+        {
+            "nombre": "temas selectos en fisica de la terapia medica",
+            "creditos": 6,
+            "area": "Ciencias M\u00e9dicas y de la Salud"
+        },
+        {
+            "nombre": "temas selectos en fisica del diagnostico medico",
+            "creditos": 6,
+            "area": "Ciencias M\u00e9dicas y de la Salud"
+        },
+        {
+            "nombre": "dinamica de biofluidos",
+            "creditos": 9,
+            "area": "Ciencias Biol\u00f3gicas"
+        },
+        {
+            "nombre": "biomateriales",
+            "creditos": 9,
+            "area": "Ciencias Biol\u00f3gicas"
+        },
+        {
+            "nombre": "biofotonica",
+            "creditos": 9,
+            "area": "Ciencias Biol\u00f3gicas"
+        },
+        {
+            "nombre": "electrofisiologia",
+            "creditos": 6,
+            "area": "Ciencias Biol\u00f3gicas"
+        },
+        {
+            "nombre": "ecuaciones diferenciales parciales",
+            "creditos": 9,
+            "area": "Ciencias Biol\u00f3gicas"
+        },
+        {
+            "nombre": "aplicaciones de la histologia en la neuropatologia",
+            "creditos": 4,
+            "area": "Ciencias Biol\u00f3gicas"
+        },
+        {
+            "nombre": "teoria celular",
+            "creditos": 4,
+            "area": "Ciencias Biol\u00f3gicas"
+        },
+        {
+            "nombre": "introduccion a la antropologia fisica y forense",
+            "creditos": 4,
+            "area": "Ciencias Biol\u00f3gicas"
+        },
+        {
+            "nombre": "epigenetica",
+            "creditos": 4,
+            "area": "Ciencias Biol\u00f3gicas"
+        },
+        {
+            "nombre": "genomica viral",
+            "creditos": 4,
+            "area": "Ciencias Biol\u00f3gicas"
+        },
+        {
+            "nombre": "fisiopatologia de la hiperexcitabilidad neuronal",
+            "creditos": 4,
+            "area": "Ciencias Biol\u00f3gicas"
+        },
+        {
+            "nombre": "temas selectos en fisica biologica",
+            "creditos": 6,
+            "area": "Ciencias Biol\u00f3gicas"
+        },
+        {
+            "nombre": "temas selectos en biofisica",
+            "creditos": 6,
+            "area": "Ciencias Biol\u00f3gicas"
+        },
+        {
+            "nombre": "temas selectos en computo de alto desempe\u00f1o",
+            "creditos": 6,
+            "area": "Ciencias Biol\u00f3gicas"
+        },
+        {
+            "nombre": "temas selectos en biomatematicas",
+            "creditos": 6,
+            "area": "Ciencias Biol\u00f3gicas"
+        },
+        {
+            "nombre": "termodinamica y sistemas biologicos",
+            "creditos": 6,
+            "area": "Ciencias Biol\u00f3gicas"
+        }
+    ]
+}

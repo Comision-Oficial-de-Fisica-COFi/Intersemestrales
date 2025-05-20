@@ -1,0 +1,169 @@
+semestre,area,creditos,nombre
+primer,obligatoria,6,fisica contemporanea
+primer,obligatoria,10,algebra
+primer,obligatoria,10,geometria analitica i
+primer,obligatoria,18,calculo diferencial e integral i
+primer,obligatoria,6,computacion
+segundo,obligatoria,12,mecanica vectorial
+segundo,obligatoria,6,laboratorio de mecanica
+segundo,obligatoria,10,geometria analitica ii
+segundo,obligatoria,18,calculo diferencial e integral ii
+tercer,obligatoria,12,fenomenos colectivos
+tercer,obligatoria,6,laboratorio de fenomenos colectivos
+tercer,obligatoria,10,algebra lineal i
+tercer,obligatoria,18,calculo diferencial e integral iii
+cuarto,obligatoria,12,electromagnetismo i
+cuarto,obligatoria,6,laboratorio de electromagnetismo
+cuarto,obligatoria,10,ecuaciones diferenciales i
+cuarto,obligatoria,18,calculo diferencial e integral iv
+quinto,obligatoria,12,introduccion a la fisica cuantica
+quinto,obligatoria,12,optica
+quinto,obligatoria,6,laboratorio de optica
+quinto,obligatoria,10,variable compleja i
+quinto,obligatoria,6,optativa
+sexto,obligatoria,12,mecanica analitica
+sexto,obligatoria,12,termodinamica
+sexto,obligatoria,10,matematicas avanzadas de la fisica
+sexto,obligatoria,6,relatividad
+séptimo,obligatoria,12,electromagnetismo ii
+séptimo,obligatoria,12,mecanica cuantica
+séptimo,obligatoria,6,laboratorio de electronica
+séptimo,obligatoria,12,fisica computacional
+octavo,obligatoria,6,fisica atomica y materia condensada
+octavo,obligatoria,6,laboratorio de fisica contemporanea i
+octavo,obligatoria,12,dinamica de medios deformables
+octavo,obligatoria,12,fisica estadistica
+noveno,obligatoria,6,fisica nuclear y subnuclear
+noveno,obligatoria,6,laboratorio de fisica contemporanea ii
+optativa,Área Acústica,9,introduccion a la acustica contemporanea
+optativa,Área Acústica,9,acustica en fluidos
+optativa,Área Acústica,9,acustica en solidos
+optativa,Área Acústica,6,temas selectos de acustica i
+optativa,Área Acústica,6,temas selectos de acustica ii
+optativa,Área Acústica,6,temas selectos de acustica iii
+optativa,Área Astrofísica,6,astrofisica general
+optativa,Área Astrofísica,6,"estructura, dinamica y evolucion de la galaxia"
+optativa,Área Astrofísica,6,materia interestelar
+optativa,Área Astrofísica,6,astrofisica extragalactica y cosmologia
+optativa,Área Astrofísica,6,astrofisica estelar
+optativa,Área Astrofísica,6,temas selectos de astrofisica i
+optativa,Área Astrofísica,6,temas selectos de astrofisica ii
+optativa,Área Astrofísica,6,temas selectos de astrofisica iii
+optativa,Área Biofísica y Física Médica,6,introduccion a la biofisica y fisica medica
+optativa,Área Biofísica y Física Médica,9,biofisica general
+optativa,Área Biofísica y Física Médica,9,fisica y medicina
+optativa,Área Biofísica y Física Médica,6,metodos fisicos para el estudio de sistemas biologicos
+optativa,Área Biofísica y Física Médica,6,metodos fisicos para el diagnostico y tratamiento en medicina
+optativa,Área Biofísica y Física Médica,6,temas selectos de biofisica y fisica medica i
+optativa,Área Biofísica y Física Médica,6,temas selectos de biofisica y fisica medica ii
+optativa,Área Ciencias de la Tierra,6,introduccion a las ciencias de la tierra
+optativa,Área Ciencias de la Tierra,9,geofisica aplicada
+optativa,Área Ciencias de la Tierra,9,geomagnetismo y tectonica de placas
+optativa,Área Ciencias de la Tierra,9,geologia y geofisica aplicada
+optativa,Área Ciencias de la Tierra,9,dinamica de fluidos geofisicos
+optativa,Área Ciencias de la Tierra,6,fisica del interior de la tierra
+optativa,Área Ciencias de la Tierra,9,sismologia y vulcanologia
+optativa,Área Ciencias de la Tierra,6,introduccion a la fisica espacial
+optativa,Área Ciencias de la Tierra,6,introduccion a la oceanografia fisica
+optativa,Área Ciencias de la Tierra,9,introduccion a los plasmas espaciales
+optativa,Área Ciencias de la Tierra,6,meteorologia
+optativa,Área Ciencias de la Tierra,9,dinamica del clima
+optativa,Área Ciencias de la Tierra,9,meteorologia y sociedad
+optativa,Área Ciencias de la Tierra,6,temas selectos de ciencias de la tierra i
+optativa,Área Ciencias de la Tierra,6,temas selectos de ciencias de la tierra ii
+optativa,Área Ciencias de la Tierra,6,temas selectos de ciencias de la tierra iii
+optativa,Área Electrónica e Instrumentación,9,circuitos digitales con laboratorio
+optativa,Área Electrónica e Instrumentación,9,maquinas digitales con laboratorio
+optativa,Área Electrónica e Instrumentación,9,señales y circuitos electricos
+optativa,Área Electrónica e Instrumentación,9,adquisicion y procesamiento de señales
+optativa,Área Electrónica e Instrumentación,9,instrumentacion cientifica
+optativa,Área Electrónica e Instrumentación,9,robotica y control
+optativa,Área Electrónica e Instrumentación,9,temas selectos de electronica e instrumentacion i
+optativa,Área Electrónica e Instrumentación,9,temas selectos de electronica e instrumentacion ii
+optativa,Área Electrónica e Instrumentación,9,temas selectos de electronica e instrumentacion iii
+optativa,Área Estado Sólido,6,introduccion al estado solido
+optativa,Área Estado Sólido,12,estado solido i
+optativa,Área Estado Sólido,12,estado solido ii
+optativa,Área Estado Sólido,6,temas selectos de estado solido i
+optativa,Área Estado Sólido,6,temas selectos de estado solido ii
+optativa,Área Estado Sólido,6,temas selectos de estado solido iii
+optativa,Área Filosofía e Historia de la Física,6,filosofia de la fisica i
+optativa,Área Filosofía e Historia de la Física,6,filosofia de la fisica ii
+optativa,Área Filosofía e Historia de la Física,6,temas selectos de filosofia de la fisica
+optativa,Área Física Atómica y Molecular,12,introduccion a la fisica atomica y molecular
+optativa,Área Física Atómica y Molecular,6,temas selectos de fisica atomica y molecular i
+optativa,Área Física Atómica y Molecular,6,temas selectos de fisica atomica y molecular ii
+optativa,Área Física Computacional,6,metodos numericos y algoritmos computacionales
+optativa,Área Física Computacional,6,temas selectos de fisica computacional i
+optativa,Área Física Computacional,6,temas selectos de fisica computacional ii
+optativa,Área Física Computacional,6,temas selectos de fisica computacional iii
+optativa,Área Física de Materiales,12,introduccion a la fisica de los materiales
+optativa,Área Física de Materiales,8,propiedades mecanicas
+optativa,Área Física de Materiales,8,fisica de la materia condensada blanda
+optativa,Área Física de Materiales,8,estructura electronica de los materiales
+optativa,Área Física de Materiales,6,temas selectos de fisica de los materiales i
+optativa,Área Física de Materiales,6,temas selectos de fisica de los materiales ii
+optativa,Área Física de Materiales,6,temas selectos de fisica de los materiales iii
+optativa,rea Física de Partículas Elementales,6,introduccion a la fisica de las particulas elementales i
+optativa,rea Física de Partículas Elementales,6,introduccion a la fisica de las particulas elementales ii
+optativa,rea Física de Partículas Elementales,6,temas selectos de fisica de particulas elementales i
+optativa,rea Física de Partículas Elementales,6,temas selectos de fisica de particulas elementales ii
+optativa,rea Física de Partículas Elementales,6,temas selectos de fisica de particulas elementales iii
+optativa,Área Física de Plasmas,6,fisica de plasmas i
+optativa,Área Física de Plasmas,6,fisica de plasmas ii
+optativa,Área Física de Plasmas,6,fisica de los plasmas de baja temperatura
+optativa,Área Física de Plasmas,6,funcion nuclear controlada
+optativa,Área Física de Plasmas,6,temas selectos de fisica de plasmas i
+optativa,Área Física de Plasmas,6,temas selectos de fisica de plasmas ii
+optativa,Área Física de Radiaciones,6,introduccion a la fisica de radiaciones
+optativa,Área Física de Radiaciones,9,dosimetria de la radiacion
+optativa,Área Física de Radiaciones,7,seguridad radiologica
+optativa,Área Física de Radiaciones,9,tecnica de radioisotopos
+optativa,Área Física de Radiaciones,6,temas selectos de fisica de radiaciones i
+optativa,Área Física de Radiaciones,6,temas selectos de fisica de radiaciones ii
+optativa,Área Física de Radiaciones,6,temas selectos de fisica de radiaciones iii
+optativa,Área Física Matemática y Teórica,6,simetrias en mecanica cuantica
+optativa,Área Física Matemática y Teórica,6,topologia y geometria diferencial para fisicos
+optativa,Área Física Matemática y Teórica,6,temas selectos de fisica matematica y teorica i
+optativa,Área Física Matemática y Teórica,6,temas selectos de fisica matematica y teorica ii
+optativa,Área Física Matemática y Teórica,6,temas selectos de fisica matematica y teorica iii
+optativa,Área Física Nuclear,9,introduccion a la fisica nuclear
+optativa,Área Física Nuclear,6,temas selectos de fisica nuclear i
+optativa,Área Física Nuclear,6,temas selectos de fisica nuclear ii
+optativa,Área Física Nuclear,6,temas selectos de fisica nuclear iii
+optativa,Área Materia Condensada Suave,12,introduccion a los sistemas quimicos y biologicos
+optativa,Área Materia Condensada Suave,12,materia condensada suave
+optativa,Área Materia Condensada Suave,6,temas selectos de materia condensada suave
+optativa,Área Mecánica de Fluidos,6,elementos de mecanica de fluidos
+optativa,Área Mecánica de Fluidos,6,mecanica de fluidos avanzada
+optativa,Área Mecánica de Fluidos,6,temas selectos de mecanica de fluidos i
+optativa,Área Mecánica de Fluidos,6,temas selectos de mecanica de fluidos ii
+optativa,Área Mecánica de Fluidos,6,temas selectos de mecanica de fluidos iii
+optativa,Área Óptica,9,introduccion a la optica cuantica
+optativa,Área Óptica,6,laseres
+optativa,Área Óptica,6,optica geometrica
+optativa,Área Óptica,6,optica de fourier
+optativa,Área Óptica,6,temas selectos de optica i
+optativa,Área Óptica,6,temas selectos de optica ii
+optativa,Área Óptica,6,temas selectos de optica iii
+optativa,"Área Relatividad, Cosmología y Gravitación",6,gravitacion y relatividad general
+optativa,"Área Relatividad, Cosmología y Gravitación",6,cosmologia fisica
+optativa,"Área Relatividad, Cosmología y Gravitación",6,astrofisica relativista
+optativa,"Área Relatividad, Cosmología y Gravitación",6,"temas selectos de relatividad, cosmologia y gravitacion i"
+optativa,"Área Relatividad, Cosmología y Gravitación",6,"temas selectos de relatividad, cosmologia y gravitacion ii"
+optativa,"Área Relatividad, Cosmología y Gravitación",6,"temas selectos de relatividad, cosmologia y gravitacion iii"
+optativa,Área Técnicas Especiales,9,introduccion a la fotografia cientifica
+optativa,Área Técnicas Especiales,9,fotografia digital
+optativa,Área Técnicas Especiales,9,temas selectos de fotografia
+optativa,Área Técnicas Especiales,6,taller
+optativa,Área Técnicas Especiales,6,aplicaciones de taller
+optativa,Área Técnicas Especiales,9,introduccion a la tecnologia de vacio y aplicaciones
+optativa,Área Técnicas Especiales,9,tecnicas de crecimiento de peliculas delgadas y
+optativa,Recubrimiento en Vacío,6,temas selectos de tecnologia del vacio i
+optativa,Recubrimiento en Vacío,6,temas selectos de tecnologia del vacio ii
+optativa,Área Termodinámica y Física Estadística,6,fenomenos cooperativos i
+optativa,Área Termodinámica y Física Estadística,6,fenomenos cooperativos ii
+optativa,Área Termodinámica y Física Estadística,6,temas selectos de termodinamica y fisica estadistica i
+optativa,Área Termodinámica y Física Estadística,6,temas selectos de termodinamica y fisica estadistica ii
+optativa,Área Termodinámica y Física Estadística,6,temas selectos de termodinamica y fisica estadistica iii
+optativa,nan,nan,optativa
