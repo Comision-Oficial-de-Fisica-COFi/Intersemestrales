@@ -1,0 +1,81 @@
+semestre,area,creditos,nombre original,nombre
+primer,obligatoria,10,Introducción a la Física del Cuerpo Humano,introduccion a la fisica del cuerpo humano
+primer,obligatoria,8,Metodología de la Física Experimental,metodologia de la fisica experimental
+primer,obligatoria,14,Cálculo Diferencial e Integral I,calculo diferencial e integral i
+primer,obligatoria,8,Álgebra,algebra
+primer,obligatoria,4,Inglés,ingles
+segundo,obligatoria,12,Mecánica Vectorial,mecanica vectorial
+segundo,obligatoria,8,Medición y Análisis en la Física Experimental,medicion y analisis en la fisica experimental
+segundo,obligatoria,14,Cálculo Diferencial e Integral II,calculo diferencial e integral ii
+segundo,obligatoria,8,Geometría Analítica I,geometria analitica i
+segundo,obligatoria,8,Bioquímica,bioquimica
+segundo,obligatoria,4,Inglés,ingles
+tercer,obligatoria,12,Fenómenos Colectivos,fenomenos colectivos
+tercer,obligatoria,8,Instrumentación y Calibración,instrumentacion y calibracion
+tercer,obligatoria,16,Cálculo Avanzado,calculo avanzado
+tercer,obligatoria,8,Álgebra Lineal,algebra lineal
+tercer,obligatoria,8,Morfofuncional I,morfofuncional i
+tercer,obligatoria,4,Inglés,ingles
+cuarto,obligatoria,12,Electromagnetismo I,electromagnetismo i
+cuarto,obligatoria,8,Elaboración y Desarrollo de Proyectos Experimentales,elaboracion y desarrollo de proyectos experimentales
+cuarto,obligatoria,6,Algoritmos Computacionales,algoritmos computacionales
+cuarto,obligatoria,8,Ecuaciones Diferenciales I,ecuaciones diferenciales i
+cuarto,obligatoria,6,Morfofuncional II,morfofuncional ii
+cuarto,obligatoria,4,Optativa (Humanidades),optativa (humanidades)
+cuarto,obligatoria,4,Inglés,ingles
+quinto,obligatoria,12,Óptica,optica
+quinto,obligatoria,12,Introducción a la Física Cuántica,introduccion a la fisica cuantica
+quinto,obligatoria,10,Física Computacional,fisica computacional
+quinto,obligatoria,10,Matemáticas Avanzadas,matematicas avanzadas
+quinto,obligatoria,6,Anatomía Radiológica,anatomia radiologica
+quinto,obligatoria,4,Inglés,ingles
+sexto,obligatoria,12,Electromagnetismo II,electromagnetismo ii
+sexto,obligatoria,12,Interacción de la Radiación con la Materia,interaccion de la radiacion con la materia
+sexto,obligatoria,12,Termofísica,termofisica
+sexto,obligatoria,5,Bioestadística,bioestadistica
+sexto,obligatoria,10,Física del Cuerpo Humano,fisica del cuerpo humano
+sexto,obligatoria,4,Inglés,ingles
+séptimo,obligatoria,12,Mecánica Cuántica,mecanica cuantica
+séptimo,obligatoria,8,Instrumentación Biomédica,instrumentacion biomedica
+séptimo,obligatoria,6,Introducción a la Oncología,introduccion a la oncologia
+octavo,obligatoria,9,Seguridad Radiológica,seguridad radiologica
+octavo,obligatoria,9,Imagenología Biomédica,imagenologia biomedica
+profundizacion,Ciencias Médicas y de la Salud,6,Sistemas Híbridos en Biomedicina,sistemas hibridos en biomedicina
+profundizacion,Ciencias Médicas y de la Salud,9,Dosimetría,dosimetria
+profundizacion,Ciencias Biológicas,12,Física Biológica,fisica biologica
+profundizacion,Ciencias Biológicas,9,Sistemas Dinámicos de la Fisiología,sistemas dinamicos de la fisiologia
+optativa,Humanidades,4,Historia y Filosofía del Pensamiento Científico,historia y filosofia del pensamiento cientifico
+optativa,Humanidades,4,"Ciencia, Tecnología y Sociedad","ciencia, tecnologia y sociedad"
+optativa,Humanidades,4,Filosofía de la Tecnología,filosofia de la tecnologia
+optativa,Humanidades,4,Filosofía de la Ciencia,filosofia de la ciencia
+optativa,Humanidades,4,Las Relaciones Interpersonales en el Ambiente Hospitalario,las relaciones interpersonales en el ambiente hospitalario
+optativa,Humanidades,4,México Nación Multicultural,mexico nacion multicultural
+optativa,Humanidades,4,Bioética,bioetica
+optativa,Ciencias Médicas y de la Salud,6,Radiobiología,radiobiologia
+optativa,Ciencias Médicas y de la Salud,6,Física de la Resonancia Magnética,fisica de la resonancia magnetica
+optativa,Ciencias Médicas y de la Salud,9,Física del Ultrasonido Médico,fisica del ultrasonido medico
+optativa,Ciencias Médicas y de la Salud,9,Reconstrucción de Imágenes Biomédicas,reconstruccion de imagenes biomedicas
+optativa,Ciencias Médicas y de la Salud,9,Biosensores,biosensores
+optativa,Ciencias Médicas y de la Salud,6,Física de la Radioterapia,fisica de la radioterapia
+optativa,Ciencias Médicas y de la Salud,6,Física de la Medicina Nuclear,fisica de la medicina nuclear
+optativa,Ciencias Médicas y de la Salud,9,Física del Radiodiagnóstico,fisica del radiodiagnostico
+optativa,Ciencias Médicas y de la Salud,6,Garantía de Calidad de Equipos de Rayos X,garantia de calidad de equipos de rayos x
+optativa,Ciencias Médicas y de la Salud,6,Temas Selectos en Instrumentación Biomédica,temas selectos en instrumentacion biomedica
+optativa,Ciencias Médicas y de la Salud,6,Temas Selectos en Física de la Terapia Médica,temas selectos en fisica de la terapia medica
+optativa,Ciencias Médicas y de la Salud,6,Temas Selectos en Física del Diagnóstico Médico,temas selectos en fisica del diagnostico medico
+optativa,Ciencias Biológicas,9,Dinámica de Biofluidos,dinamica de biofluidos
+optativa,Ciencias Biológicas,9,Biomateriales,biomateriales
+optativa,Ciencias Biológicas,9,Biofotónica,biofotonica
+optativa,Ciencias Biológicas,6,Electrofisiología,electrofisiologia
+optativa,Ciencias Biológicas,9,Ecuaciones Diferenciales Parciales,ecuaciones diferenciales parciales
+optativa,Ciencias Biológicas,4,Aplicaciones de la Histología en la Neuropatología,aplicaciones de la histologia en la neuropatologia
+optativa,Ciencias Biológicas,4,Teoría Celular,teoria celular
+optativa,Ciencias Biológicas,4,Introducción a la Antropología Física y Forense,introduccion a la antropologia fisica y forense
+optativa,Ciencias Biológicas,4,Epigenética,epigenetica
+optativa,Ciencias Biológicas,4,Genómica Viral,genomica viral
+optativa,Ciencias Biológicas,4,Fisiopatología de la Hiperexcitabilidad Neuronal,fisiopatologia de la hiperexcitabilidad neuronal
+optativa,Ciencias Biológicas,6,Temas Selectos en Física Biológica,temas selectos en fisica biologica
+optativa,Ciencias Biológicas,6,Temas Selectos en Biofísica,temas selectos en biofisica
+optativa,Ciencias Biológicas,6,Temas Selectos en Cómputo de Alto Desempeño,temas selectos en computo de alto desempeño
+optativa,Ciencias Biológicas,6,Temas Selectos en Biomatemáticas,temas selectos en biomatematicas
+optativa,Ciencias Biológicas,6,Termodinámica y Sistemas Biológicos,termodinamica y sistemas biologicos

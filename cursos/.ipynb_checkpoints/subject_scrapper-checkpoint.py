@@ -11,8 +11,8 @@ carrera = 'biomedica'
 filename = f'cursos_{carrera}_raw.txt'
 
 subjects_dict = {}
-subjects_names = [['semestre', 'area', 'creditos', 'nombre original', 'nombre']]
-with open(filename, 'r', encoding='utf-8') as f:
+subjects_names = [['semestre', 'area', 'creditos', 'nombre']]
+with open(filename, 'r') as f:
 	data = f.readlines()
 
 area = None
@@ -27,19 +27,20 @@ for line in data:
 			semestre = 'optativa'
 		if "PROFUNDIZACIÓN" in line:
 			semestre = 'profundizacion'
+		key = unaccent(line)
+		subjects_dict[key] = []
 		continue
 	if "--" in line:
 		area = line.replace('--', '')
 		continue
-	creditos, nombre_og = int(line.split(' ')[0]), ' '.join(line.split(' ')[1:])
-	nombre = unaccent(nombre_og.lower().replace('\n', '').strip())
-	subjects_dict[nombre] = {'nombre_og': nombre_og, 'creditos': creditos,
-							 'area': area, 'semestre': semestre}
-	subjects_names.append([semestre, area, creditos, nombre_og, nombre])
+	creditos, nombre = int(line.split(' ')[0]), ' '.join(line.split(' ')[1:])
+	nombre = unaccent(nombre.lower().replace('\n', '').strip())
+	subjects_dict[key].append({'nombre': nombre, 'creditos': creditos, 'area': area})
+	subjects_names.append([semestre, area, creditos, nombre])
 
-with open(f'cursos_{carrera}.json', 'w') as file:
+with open(f'cursos_{carrera}_dict.json', 'w') as file:
 	json.dump(subjects_dict, file, indent=4)
 
-with open(f'cursos_{carrera}.csv', 'w', newline='', encoding='utf-8') as file:
+with open(f'cursos_{carrera}_nombres.csv', 'w', newline='') as file:
 	writer = csv.writer(file)
 	writer.writerows(subjects_names)
