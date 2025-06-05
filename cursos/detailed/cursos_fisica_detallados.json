@@ -1,0 +1,1191 @@
+{
+    "PRIMER SEMESTRE": [
+        {
+            "fisica contemporanea": {
+                "nombre_og": "F\u00edsica Contempor\u00e1nea",
+                "creditos": 6,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "algebra": {
+                "nombre_og": "\u00c1lgebra",
+                "creditos": 10,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "geometria analitica i": {
+                "nombre_og": "Geometr\u00eda Anal\u00edtica I",
+                "creditos": 10,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "calculo diferencial e integral i": {
+                "nombre_og": "C\u00e1lculo Diferencial e Integral I",
+                "creditos": 18,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "computacion": {
+                "nombre_og": "Computaci\u00f3n",
+                "creditos": 6,
+                "area": "obligatoria"
+            }
+        }
+    ],
+    "SEGUNDO SEMESTRE": [
+        {
+            "mecanica vectorial": {
+                "nombre_og": "Mec\u00e1nica Vectorial",
+                "creditos": 12,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "laboratorio de mecanica": {
+                "nombre_og": "Laboratorio de Mec\u00e1nica",
+                "creditos": 6,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "geometria analitica ii": {
+                "nombre_og": "Geometr\u00eda Anal\u00edtica II",
+                "creditos": 10,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "calculo diferencial e integral ii": {
+                "nombre_og": "C\u00e1lculo Diferencial e Integral II",
+                "creditos": 18,
+                "area": "obligatoria"
+            }
+        }
+    ],
+    "TERCER SEMESTRE": [
+        {
+            "fenomenos colectivos": {
+                "nombre_og": "Fen\u00f3menos Colectivos",
+                "creditos": 12,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "laboratorio de fenomenos colectivos": {
+                "nombre_og": "Laboratorio de Fen\u00f3menos Colectivos",
+                "creditos": 6,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "algebra lineal i": {
+                "nombre_og": "\u00c1lgebra Lineal I",
+                "creditos": 10,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "calculo diferencial e integral iii": {
+                "nombre_og": "C\u00e1lculo Diferencial e Integral III",
+                "creditos": 18,
+                "area": "obligatoria"
+            }
+        }
+    ],
+    "CUARTO SEMESTRE": [
+        {
+            "electromagnetismo i": {
+                "nombre_og": "Electromagnetismo I",
+                "creditos": 12,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "laboratorio de electromagnetismo": {
+                "nombre_og": "Laboratorio de Electromagnetismo",
+                "creditos": 6,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "ecuaciones diferenciales i": {
+                "nombre_og": "Ecuaciones Diferenciales I",
+                "creditos": 10,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "calculo diferencial e integral iv": {
+                "nombre_og": "C\u00e1lculo Diferencial e Integral IV",
+                "creditos": 18,
+                "area": "obligatoria"
+            }
+        }
+    ],
+    "QUINTO SEMESTRE": [
+        {
+            "introduccion a la fisica cuantica": {
+                "nombre_og": "Introducci\u00f3n a la F\u00edsica Cu\u00e1ntica",
+                "creditos": 12,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "optica": {
+                "nombre_og": "\u00d3ptica",
+                "creditos": 12,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "laboratorio de optica": {
+                "nombre_og": "Laboratorio de \u00d3ptica",
+                "creditos": 6,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "variable compleja i": {
+                "nombre_og": "Variable Compleja I",
+                "creditos": 10,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "optativa": {
+                "nombre_og": "Optativa",
+                "creditos": 6,
+                "area": "obligatoria"
+            }
+        }
+    ],
+    "SEXTO SEMESTRE": [
+        {
+            "mecanica analitica": {
+                "nombre_og": "Mec\u00e1nica Anal\u00edtica",
+                "creditos": 12,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "termodinamica": {
+                "nombre_og": "Termodin\u00e1mica",
+                "creditos": 12,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "matematicas avanzadas de la fisica": {
+                "nombre_og": "Matem\u00e1ticas Avanzadas de la F\u00edsica",
+                "creditos": 10,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "relatividad": {
+                "nombre_og": "Relatividad",
+                "creditos": 6,
+                "area": "obligatoria"
+            }
+        }
+    ],
+    "S\u00c9PTIMO SEMESTRE": [
+        {
+            "electromagnetismo ii": {
+                "nombre_og": "Electromagnetismo II",
+                "creditos": 12,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "mecanica cuantica": {
+                "nombre_og": "Mec\u00e1nica Cu\u00e1ntica",
+                "creditos": 12,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "laboratorio de electronica": {
+                "nombre_og": "Laboratorio de Electr\u00f3nica",
+                "creditos": 6,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "fisica computacional": {
+                "nombre_og": "F\u00edsica Computacional",
+                "creditos": 12,
+                "area": "obligatoria"
+            }
+        }
+    ],
+    "OCTAVO SEMESTRE": [
+        {
+            "fisica atomica y materia condensada": {
+                "nombre_og": "F\u00edsica At\u00f3mica y Materia Condensada",
+                "creditos": 6,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "laboratorio de fisica contemporanea i": {
+                "nombre_og": "Laboratorio de F\u00edsica Contempor\u00e1nea I",
+                "creditos": 6,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "dinamica de medios deformables": {
+                "nombre_og": "Din\u00e1mica de Medios Deformables",
+                "creditos": 12,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "fisica estadistica": {
+                "nombre_og": "F\u00edsica Estad\u00edstica",
+                "creditos": 12,
+                "area": "obligatoria"
+            }
+        }
+    ],
+    "NOVENO SEMESTRE": [
+        {
+            "fisica nuclear y subnuclear": {
+                "nombre_og": "F\u00edsica Nuclear y Subnuclear",
+                "creditos": 6,
+                "area": "obligatoria"
+            }
+        },
+        {
+            "laboratorio de fisica contemporanea ii": {
+                "nombre_og": "Laboratorio de F\u00edsica Contempor\u00e1nea II",
+                "creditos": 6,
+                "area": "obligatoria"
+            }
+        }
+    ],
+    "OPTATIVAS": [
+        {
+            "introduccion a la acustica contemporanea": {
+                "nombre_og": "Introducci\u00f3n a la Ac\u00fastica Contempor\u00e1nea",
+                "creditos": 9,
+                "area": "\u00c1rea Ac\u00fastica"
+            }
+        },
+        {
+            "acustica en fluidos": {
+                "nombre_og": "Ac\u00fastica en Fluidos",
+                "creditos": 9,
+                "area": "\u00c1rea Ac\u00fastica"
+            }
+        },
+        {
+            "acustica en solidos": {
+                "nombre_og": "Ac\u00fastica en S\u00f3lidos",
+                "creditos": 9,
+                "area": "\u00c1rea Ac\u00fastica"
+            }
+        },
+        {
+            "temas selectos de acustica i": {
+                "nombre_og": "Temas Selectos de Ac\u00fastica I",
+                "creditos": 6,
+                "area": "\u00c1rea Ac\u00fastica"
+            }
+        },
+        {
+            "temas selectos de acustica ii": {
+                "nombre_og": "Temas Selectos de Ac\u00fastica II",
+                "creditos": 6,
+                "area": "\u00c1rea Ac\u00fastica"
+            }
+        },
+        {
+            "temas selectos de acustica iii": {
+                "nombre_og": "Temas Selectos de Ac\u00fastica III",
+                "creditos": 6,
+                "area": "\u00c1rea Ac\u00fastica"
+            }
+        },
+        {
+            "astrofisica general": {
+                "nombre_og": "Astrof\u00edsica General",
+                "creditos": 6,
+                "area": "\u00c1rea Astrof\u00edsica"
+            }
+        },
+        {
+            "estructura, dinamica y evolucion de la galaxia": {
+                "nombre_og": "Estructura, Din\u00e1mica y Evoluci\u00f3n de la Galaxia",
+                "creditos": 6,
+                "area": "\u00c1rea Astrof\u00edsica"
+            }
+        },
+        {
+            "materia interestelar": {
+                "nombre_og": "Materia Interestelar",
+                "creditos": 6,
+                "area": "\u00c1rea Astrof\u00edsica"
+            }
+        },
+        {
+            "astrofisica extragalactica y cosmologia": {
+                "nombre_og": "Astrof\u00edsica Extragal\u00e1ctica y Cosmolog\u00eda",
+                "creditos": 6,
+                "area": "\u00c1rea Astrof\u00edsica"
+            }
+        },
+        {
+            "astrofisica estelar": {
+                "nombre_og": "Astrof\u00edsica Estelar",
+                "creditos": 6,
+                "area": "\u00c1rea Astrof\u00edsica"
+            }
+        },
+        {
+            "temas selectos de astrofisica i": {
+                "nombre_og": "Temas Selectos de Astrof\u00edsica I",
+                "creditos": 6,
+                "area": "\u00c1rea Astrof\u00edsica"
+            }
+        },
+        {
+            "temas selectos de astrofisica ii": {
+                "nombre_og": "Temas Selectos de Astrof\u00edsica II",
+                "creditos": 6,
+                "area": "\u00c1rea Astrof\u00edsica"
+            }
+        },
+        {
+            "temas selectos de astrofisica iii": {
+                "nombre_og": "Temas Selectos de Astrof\u00edsica III",
+                "creditos": 6,
+                "area": "\u00c1rea Astrof\u00edsica"
+            }
+        },
+        {
+            "introduccion a la biofisica y fisica medica": {
+                "nombre_og": "Introducci\u00f3n a la Biof\u00edsica y F\u00edsica M\u00e9dica",
+                "creditos": 6,
+                "area": "\u00c1rea Biof\u00edsica y F\u00edsica M\u00e9dica"
+            }
+        },
+        {
+            "biofisica general": {
+                "nombre_og": "Biof\u00edsica General",
+                "creditos": 9,
+                "area": "\u00c1rea Biof\u00edsica y F\u00edsica M\u00e9dica"
+            }
+        },
+        {
+            "fisica y medicina": {
+                "nombre_og": "F\u00edsica y Medicina",
+                "creditos": 9,
+                "area": "\u00c1rea Biof\u00edsica y F\u00edsica M\u00e9dica"
+            }
+        },
+        {
+            "metodos fisicos para el estudio de sistemas biologicos": {
+                "nombre_og": "M\u00e9todos F\u00edsicos para el Estudio de Sistemas Biol\u00f3gicos",
+                "creditos": 6,
+                "area": "\u00c1rea Biof\u00edsica y F\u00edsica M\u00e9dica"
+            }
+        },
+        {
+            "metodos fisicos para el diagnostico y tratamiento en medicina": {
+                "nombre_og": "M\u00e9todos F\u00edsicos para el Diagn\u00f3stico y Tratamiento en Medicina",
+                "creditos": 6,
+                "area": "\u00c1rea Biof\u00edsica y F\u00edsica M\u00e9dica"
+            }
+        },
+        {
+            "temas selectos de biofisica y fisica medica i": {
+                "nombre_og": "Temas Selectos de Biof\u00edsica y F\u00edsica M\u00e9dica I",
+                "creditos": 6,
+                "area": "\u00c1rea Biof\u00edsica y F\u00edsica M\u00e9dica"
+            }
+        },
+        {
+            "temas selectos de biofisica y fisica medica ii": {
+                "nombre_og": "Temas Selectos de Biof\u00edsica y F\u00edsica M\u00e9dica II",
+                "creditos": 6,
+                "area": "\u00c1rea Biof\u00edsica y F\u00edsica M\u00e9dica"
+            }
+        },
+        {
+            "introduccion a las ciencias de la tierra": {
+                "nombre_og": "Introducci\u00f3n a las Ciencias de la Tierra",
+                "creditos": 6,
+                "area": "\u00c1rea Ciencias de la Tierra"
+            }
+        },
+        {
+            "geofisica aplicada": {
+                "nombre_og": "Geof\u00edsica Aplicada",
+                "creditos": 9,
+                "area": "\u00c1rea Ciencias de la Tierra"
+            }
+        },
+        {
+            "geomagnetismo y tectonica de placas": {
+                "nombre_og": "Geomagnetismo y Tect\u00f3nica de Placas",
+                "creditos": 9,
+                "area": "\u00c1rea Ciencias de la Tierra"
+            }
+        },
+        {
+            "geologia y geofisica aplicada": {
+                "nombre_og": "Geolog\u00eda y Geof\u00edsica Aplicada",
+                "creditos": 9,
+                "area": "\u00c1rea Ciencias de la Tierra"
+            }
+        },
+        {
+            "dinamica de fluidos geofisicos": {
+                "nombre_og": "Din\u00e1mica de Fluidos Geof\u00edsicos",
+                "creditos": 9,
+                "area": "\u00c1rea Ciencias de la Tierra"
+            }
+        },
+        {
+            "fisica del interior de la tierra": {
+                "nombre_og": "F\u00edsica del Interior de la Tierra",
+                "creditos": 6,
+                "area": "\u00c1rea Ciencias de la Tierra"
+            }
+        },
+        {
+            "sismologia y vulcanologia": {
+                "nombre_og": "Sismolog\u00eda y Vulcanolog\u00eda",
+                "creditos": 9,
+                "area": "\u00c1rea Ciencias de la Tierra"
+            }
+        },
+        {
+            "introduccion a la fisica espacial": {
+                "nombre_og": "Introducci\u00f3n a la F\u00edsica Espacial",
+                "creditos": 6,
+                "area": "\u00c1rea Ciencias de la Tierra"
+            }
+        },
+        {
+            "introduccion a la oceanografia fisica": {
+                "nombre_og": "Introducci\u00f3n a la Oceanograf\u00eda F\u00edsica",
+                "creditos": 6,
+                "area": "\u00c1rea Ciencias de la Tierra"
+            }
+        },
+        {
+            "introduccion a los plasmas espaciales": {
+                "nombre_og": "Introducci\u00f3n a los Plasmas Espaciales",
+                "creditos": 9,
+                "area": "\u00c1rea Ciencias de la Tierra"
+            }
+        },
+        {
+            "meteorologia": {
+                "nombre_og": "Meteorolog\u00eda",
+                "creditos": 6,
+                "area": "\u00c1rea Ciencias de la Tierra"
+            }
+        },
+        {
+            "dinamica del clima": {
+                "nombre_og": "Din\u00e1mica del Clima",
+                "creditos": 9,
+                "area": "\u00c1rea Ciencias de la Tierra"
+            }
+        },
+        {
+            "meteorologia y sociedad": {
+                "nombre_og": "Meteorolog\u00eda y Sociedad",
+                "creditos": 9,
+                "area": "\u00c1rea Ciencias de la Tierra"
+            }
+        },
+        {
+            "temas selectos de ciencias de la tierra i": {
+                "nombre_og": "Temas Selectos de Ciencias de la Tierra I",
+                "creditos": 6,
+                "area": "\u00c1rea Ciencias de la Tierra"
+            }
+        },
+        {
+            "temas selectos de ciencias de la tierra ii": {
+                "nombre_og": "Temas Selectos de Ciencias de la Tierra II",
+                "creditos": 6,
+                "area": "\u00c1rea Ciencias de la Tierra"
+            }
+        },
+        {
+            "temas selectos de ciencias de la tierra iii": {
+                "nombre_og": "Temas Selectos de Ciencias de la Tierra III",
+                "creditos": 6,
+                "area": "\u00c1rea Ciencias de la Tierra"
+            }
+        },
+        {
+            "circuitos digitales con laboratorio": {
+                "nombre_og": "Circuitos Digitales con Laboratorio",
+                "creditos": 9,
+                "area": "\u00c1rea Electr\u00f3nica e Instrumentaci\u00f3n"
+            }
+        },
+        {
+            "maquinas digitales con laboratorio": {
+                "nombre_og": "M\u00e1quinas Digitales con Laboratorio",
+                "creditos": 9,
+                "area": "\u00c1rea Electr\u00f3nica e Instrumentaci\u00f3n"
+            }
+        },
+        {
+            "se\u00f1ales y circuitos electricos": {
+                "nombre_og": "Se\u00f1ales y Circuitos El\u00e9ctricos",
+                "creditos": 9,
+                "area": "\u00c1rea Electr\u00f3nica e Instrumentaci\u00f3n"
+            }
+        },
+        {
+            "adquisicion y procesamiento de se\u00f1ales": {
+                "nombre_og": "Adquisici\u00f3n y Procesamiento de Se\u00f1ales",
+                "creditos": 9,
+                "area": "\u00c1rea Electr\u00f3nica e Instrumentaci\u00f3n"
+            }
+        },
+        {
+            "instrumentacion cientifica": {
+                "nombre_og": "Instrumentaci\u00f3n Cient\u00edfica",
+                "creditos": 9,
+                "area": "\u00c1rea Electr\u00f3nica e Instrumentaci\u00f3n"
+            }
+        },
+        {
+            "robotica y control": {
+                "nombre_og": "Rob\u00f3tica y Control",
+                "creditos": 9,
+                "area": "\u00c1rea Electr\u00f3nica e Instrumentaci\u00f3n"
+            }
+        },
+        {
+            "temas selectos de electronica e instrumentacion i": {
+                "nombre_og": "Temas Selectos de Electr\u00f3nica e Instrumentaci\u00f3n I",
+                "creditos": 9,
+                "area": "\u00c1rea Electr\u00f3nica e Instrumentaci\u00f3n"
+            }
+        },
+        {
+            "temas selectos de electronica e instrumentacion ii": {
+                "nombre_og": "Temas Selectos de Electr\u00f3nica e Instrumentaci\u00f3n II",
+                "creditos": 9,
+                "area": "\u00c1rea Electr\u00f3nica e Instrumentaci\u00f3n"
+            }
+        },
+        {
+            "temas selectos de electronica e instrumentacion iii": {
+                "nombre_og": "Temas Selectos de Electr\u00f3nica e Instrumentaci\u00f3n III",
+                "creditos": 9,
+                "area": "\u00c1rea Electr\u00f3nica e Instrumentaci\u00f3n"
+            }
+        },
+        {
+            "introduccion al estado solido": {
+                "nombre_og": "Introducci\u00f3n al Estado S\u00f3lido",
+                "creditos": 6,
+                "area": "\u00c1rea Estado S\u00f3lido"
+            }
+        },
+        {
+            "estado solido i": {
+                "nombre_og": "Estado S\u00f3lido I",
+                "creditos": 12,
+                "area": "\u00c1rea Estado S\u00f3lido"
+            }
+        },
+        {
+            "estado solido ii": {
+                "nombre_og": "Estado S\u00f3lido II",
+                "creditos": 12,
+                "area": "\u00c1rea Estado S\u00f3lido"
+            }
+        },
+        {
+            "temas selectos de estado solido i": {
+                "nombre_og": "Temas Selectos de Estado S\u00f3lido I",
+                "creditos": 6,
+                "area": "\u00c1rea Estado S\u00f3lido"
+            }
+        },
+        {
+            "temas selectos de estado solido ii": {
+                "nombre_og": "Temas Selectos de Estado S\u00f3lido II",
+                "creditos": 6,
+                "area": "\u00c1rea Estado S\u00f3lido"
+            }
+        },
+        {
+            "temas selectos de estado solido iii": {
+                "nombre_og": "Temas Selectos de Estado S\u00f3lido III",
+                "creditos": 6,
+                "area": "\u00c1rea Estado S\u00f3lido"
+            }
+        },
+        {
+            "filosofia de la fisica i": {
+                "nombre_og": "Filosof\u00eda de la F\u00edsica I",
+                "creditos": 6,
+                "area": "\u00c1rea Filosof\u00eda e Historia de la F\u00edsica"
+            }
+        },
+        {
+            "filosofia de la fisica ii": {
+                "nombre_og": "Filosof\u00eda de la F\u00edsica II",
+                "creditos": 6,
+                "area": "\u00c1rea Filosof\u00eda e Historia de la F\u00edsica"
+            }
+        },
+        {
+            "temas selectos de filosofia de la fisica": {
+                "nombre_og": "Temas Selectos de Filosof\u00eda de la F\u00edsica",
+                "creditos": 6,
+                "area": "\u00c1rea Filosof\u00eda e Historia de la F\u00edsica"
+            }
+        },
+        {
+            "introduccion a la fisica atomica y molecular": {
+                "nombre_og": "Introducci\u00f3n a la F\u00edsica At\u00f3mica y Molecular",
+                "creditos": 12,
+                "area": "\u00c1rea F\u00edsica At\u00f3mica y Molecular"
+            }
+        },
+        {
+            "temas selectos de fisica atomica y molecular i": {
+                "nombre_og": "Temas Selectos de F\u00edsica At\u00f3mica y Molecular I",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica At\u00f3mica y Molecular"
+            }
+        },
+        {
+            "temas selectos de fisica atomica y molecular ii": {
+                "nombre_og": "Temas Selectos de F\u00edsica At\u00f3mica y Molecular II",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica At\u00f3mica y Molecular"
+            }
+        },
+        {
+            "metodos numericos y algoritmos computacionales": {
+                "nombre_og": "M\u00e9todos Num\u00e9ricos y Algoritmos Computacionales",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica Computacional"
+            }
+        },
+        {
+            "temas selectos de fisica computacional i": {
+                "nombre_og": "Temas Selectos de F\u00edsica Computacional I",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica Computacional"
+            }
+        },
+        {
+            "temas selectos de fisica computacional ii": {
+                "nombre_og": "Temas Selectos de F\u00edsica Computacional II",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica Computacional"
+            }
+        },
+        {
+            "temas selectos de fisica computacional iii": {
+                "nombre_og": "Temas Selectos de F\u00edsica Computacional III",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica Computacional"
+            }
+        },
+        {
+            "introduccion a la fisica de los materiales": {
+                "nombre_og": "Introducci\u00f3n a la F\u00edsica de los Materiales",
+                "creditos": 12,
+                "area": "\u00c1rea F\u00edsica de Materiales"
+            }
+        },
+        {
+            "propiedades mecanicas": {
+                "nombre_og": "Propiedades Mec\u00e1nicas",
+                "creditos": 8,
+                "area": "\u00c1rea F\u00edsica de Materiales"
+            }
+        },
+        {
+            "fisica de la materia condensada blanda": {
+                "nombre_og": "F\u00edsica de la Materia Condensada Blanda",
+                "creditos": 8,
+                "area": "\u00c1rea F\u00edsica de Materiales"
+            }
+        },
+        {
+            "estructura electronica de los materiales": {
+                "nombre_og": "Estructura Electr\u00f3nica de los Materiales",
+                "creditos": 8,
+                "area": "\u00c1rea F\u00edsica de Materiales"
+            }
+        },
+        {
+            "temas selectos de fisica de los materiales i": {
+                "nombre_og": "Temas Selectos de F\u00edsica de los Materiales I",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica de Materiales"
+            }
+        },
+        {
+            "temas selectos de fisica de los materiales ii": {
+                "nombre_og": "Temas Selectos de F\u00edsica de los Materiales II",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica de Materiales"
+            }
+        },
+        {
+            "temas selectos de fisica de los materiales iii": {
+                "nombre_og": "Temas Selectos de F\u00edsica de los Materiales III",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica de Materiales"
+            }
+        },
+        {
+            "introduccion a la fisica de las particulas elementales i": {
+                "nombre_og": "Introducci\u00f3n a la F\u00edsica de las Part\u00edculas Elementales I",
+                "creditos": 6,
+                "area": "rea F\u00edsica de Part\u00edculas Elementales"
+            }
+        },
+        {
+            "introduccion a la fisica de las particulas elementales ii": {
+                "nombre_og": "Introducci\u00f3n a la F\u00edsica de las Part\u00edculas Elementales II",
+                "creditos": 6,
+                "area": "rea F\u00edsica de Part\u00edculas Elementales"
+            }
+        },
+        {
+            "temas selectos de fisica de particulas elementales i": {
+                "nombre_og": "Temas Selectos de F\u00edsica de Part\u00edculas Elementales I",
+                "creditos": 6,
+                "area": "rea F\u00edsica de Part\u00edculas Elementales"
+            }
+        },
+        {
+            "temas selectos de fisica de particulas elementales ii": {
+                "nombre_og": "Temas Selectos de F\u00edsica de Part\u00edculas Elementales II",
+                "creditos": 6,
+                "area": "rea F\u00edsica de Part\u00edculas Elementales"
+            }
+        },
+        {
+            "temas selectos de fisica de particulas elementales iii": {
+                "nombre_og": "Temas Selectos de F\u00edsica de Part\u00edculas Elementales III",
+                "creditos": 6,
+                "area": "rea F\u00edsica de Part\u00edculas Elementales"
+            }
+        },
+        {
+            "fisica de plasmas i": {
+                "nombre_og": "F\u00edsica de Plasmas I",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica de Plasmas"
+            }
+        },
+        {
+            "fisica de plasmas ii": {
+                "nombre_og": "F\u00edsica de Plasmas II",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica de Plasmas"
+            }
+        },
+        {
+            "fisica de los plasmas de baja temperatura": {
+                "nombre_og": "F\u00edsica de los Plasmas de Baja Temperatura",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica de Plasmas"
+            }
+        },
+        {
+            "funcion nuclear controlada": {
+                "nombre_og": "Funci\u00f3n Nuclear Controlada",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica de Plasmas"
+            }
+        },
+        {
+            "temas selectos de fisica de plasmas i": {
+                "nombre_og": "Temas Selectos de F\u00edsica de Plasmas I",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica de Plasmas"
+            }
+        },
+        {
+            "temas selectos de fisica de plasmas ii": {
+                "nombre_og": "Temas Selectos de F\u00edsica de Plasmas II",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica de Plasmas"
+            }
+        },
+        {
+            "introduccion a la fisica de radiaciones": {
+                "nombre_og": "Introducci\u00f3n a la F\u00edsica de Radiaciones",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica de Radiaciones"
+            }
+        },
+        {
+            "dosimetria de la radiacion": {
+                "nombre_og": "Dosimetr\u00eda de la Radiaci\u00f3n",
+                "creditos": 9,
+                "area": "\u00c1rea F\u00edsica de Radiaciones"
+            }
+        },
+        {
+            "seguridad radiologica": {
+                "nombre_og": "Seguridad Radiol\u00f3gica",
+                "creditos": 7,
+                "area": "\u00c1rea F\u00edsica de Radiaciones"
+            }
+        },
+        {
+            "tecnica de radioisotopos": {
+                "nombre_og": "T\u00e9cnica de Radiois\u00f3topos",
+                "creditos": 9,
+                "area": "\u00c1rea F\u00edsica de Radiaciones"
+            }
+        },
+        {
+            "temas selectos de fisica de radiaciones i": {
+                "nombre_og": "Temas Selectos de F\u00edsica de Radiaciones I",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica de Radiaciones"
+            }
+        },
+        {
+            "temas selectos de fisica de radiaciones ii": {
+                "nombre_og": "Temas Selectos de F\u00edsica de Radiaciones II",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica de Radiaciones"
+            }
+        },
+        {
+            "temas selectos de fisica de radiaciones iii": {
+                "nombre_og": "Temas Selectos de F\u00edsica de Radiaciones III",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica de Radiaciones"
+            }
+        },
+        {
+            "simetrias en mecanica cuantica": {
+                "nombre_og": "Simetr\u00edas en Mec\u00e1nica Cu\u00e1ntica",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica Matem\u00e1tica y Te\u00f3rica"
+            }
+        },
+        {
+            "topologia y geometria diferencial para fisicos": {
+                "nombre_og": "Topolog\u00eda y Geometr\u00eda Diferencial para F\u00edsicos",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica Matem\u00e1tica y Te\u00f3rica"
+            }
+        },
+        {
+            "temas selectos de fisica matematica y teorica i": {
+                "nombre_og": "Temas Selectos de F\u00edsica Matem\u00e1tica y Te\u00f3rica I",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica Matem\u00e1tica y Te\u00f3rica"
+            }
+        },
+        {
+            "temas selectos de fisica matematica y teorica ii": {
+                "nombre_og": "Temas Selectos de F\u00edsica Matem\u00e1tica y Te\u00f3rica II",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica Matem\u00e1tica y Te\u00f3rica"
+            }
+        },
+        {
+            "temas selectos de fisica matematica y teorica iii": {
+                "nombre_og": "Temas Selectos de F\u00edsica Matem\u00e1tica y Te\u00f3rica III",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica Matem\u00e1tica y Te\u00f3rica"
+            }
+        },
+        {
+            "introduccion a la fisica nuclear": {
+                "nombre_og": "Introducci\u00f3n a la F\u00edsica Nuclear",
+                "creditos": 9,
+                "area": "\u00c1rea F\u00edsica Nuclear"
+            }
+        },
+        {
+            "temas selectos de fisica nuclear i": {
+                "nombre_og": "Temas Selectos de F\u00edsica Nuclear I",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica Nuclear"
+            }
+        },
+        {
+            "temas selectos de fisica nuclear ii": {
+                "nombre_og": "Temas Selectos de F\u00edsica Nuclear II",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica Nuclear"
+            }
+        },
+        {
+            "temas selectos de fisica nuclear iii": {
+                "nombre_og": "Temas Selectos de F\u00edsica Nuclear III",
+                "creditos": 6,
+                "area": "\u00c1rea F\u00edsica Nuclear"
+            }
+        },
+        {
+            "introduccion a los sistemas quimicos y biologicos": {
+                "nombre_og": "Introducci\u00f3n a los Sistemas Qu\u00edmicos y Biol\u00f3gicos",
+                "creditos": 12,
+                "area": "\u00c1rea Materia Condensada Suave"
+            }
+        },
+        {
+            "materia condensada suave": {
+                "nombre_og": "Materia Condensada Suave",
+                "creditos": 12,
+                "area": "\u00c1rea Materia Condensada Suave"
+            }
+        },
+        {
+            "temas selectos de materia condensada suave": {
+                "nombre_og": "Temas Selectos de Materia Condensada Suave",
+                "creditos": 6,
+                "area": "\u00c1rea Materia Condensada Suave"
+            }
+        },
+        {
+            "elementos de mecanica de fluidos": {
+                "nombre_og": "Elementos de Mec\u00e1nica de Fluidos",
+                "creditos": 6,
+                "area": "\u00c1rea Mec\u00e1nica de Fluidos"
+            }
+        },
+        {
+            "mecanica de fluidos avanzada": {
+                "nombre_og": "Mec\u00e1nica de Fluidos Avanzada",
+                "creditos": 6,
+                "area": "\u00c1rea Mec\u00e1nica de Fluidos"
+            }
+        },
+        {
+            "temas selectos de mecanica de fluidos i": {
+                "nombre_og": "Temas Selectos de Mec\u00e1nica de Fluidos I",
+                "creditos": 6,
+                "area": "\u00c1rea Mec\u00e1nica de Fluidos"
+            }
+        },
+        {
+            "temas selectos de mecanica de fluidos ii": {
+                "nombre_og": "Temas Selectos de Mec\u00e1nica de Fluidos II",
+                "creditos": 6,
+                "area": "\u00c1rea Mec\u00e1nica de Fluidos"
+            }
+        },
+        {
+            "temas selectos de mecanica de fluidos iii": {
+                "nombre_og": "Temas Selectos de Mec\u00e1nica de Fluidos III",
+                "creditos": 6,
+                "area": "\u00c1rea Mec\u00e1nica de Fluidos"
+            }
+        },
+        {
+            "introduccion a la optica cuantica": {
+                "nombre_og": "Introducci\u00f3n a la \u00d3ptica Cu\u00e1ntica",
+                "creditos": 9,
+                "area": "\u00c1rea \u00d3ptica"
+            }
+        },
+        {
+            "laseres": {
+                "nombre_og": "L\u00e1seres",
+                "creditos": 6,
+                "area": "\u00c1rea \u00d3ptica"
+            }
+        },
+        {
+            "optica geometrica": {
+                "nombre_og": "\u00d3ptica Geom\u00e9trica",
+                "creditos": 6,
+                "area": "\u00c1rea \u00d3ptica"
+            }
+        },
+        {
+            "optica de fourier": {
+                "nombre_og": "\u00d3ptica de Fourier",
+                "creditos": 6,
+                "area": "\u00c1rea \u00d3ptica"
+            }
+        },
+        {
+            "temas selectos de optica i": {
+                "nombre_og": "Temas Selectos de \u00d3ptica I",
+                "creditos": 6,
+                "area": "\u00c1rea \u00d3ptica"
+            }
+        },
+        {
+            "temas selectos de optica ii": {
+                "nombre_og": "Temas Selectos de \u00d3ptica II",
+                "creditos": 6,
+                "area": "\u00c1rea \u00d3ptica"
+            }
+        },
+        {
+            "temas selectos de optica iii": {
+                "nombre_og": "Temas Selectos de \u00d3ptica III",
+                "creditos": 6,
+                "area": "\u00c1rea \u00d3ptica"
+            }
+        },
+        {
+            "gravitacion y relatividad general": {
+                "nombre_og": "Gravitaci\u00f3n y Relatividad General",
+                "creditos": 6,
+                "area": "\u00c1rea Relatividad, Cosmolog\u00eda y Gravitaci\u00f3n"
+            }
+        },
+        {
+            "cosmologia fisica": {
+                "nombre_og": "Cosmolog\u00eda F\u00edsica",
+                "creditos": 6,
+                "area": "\u00c1rea Relatividad, Cosmolog\u00eda y Gravitaci\u00f3n"
+            }
+        },
+        {
+            "astrofisica relativista": {
+                "nombre_og": "Astrof\u00edsica Relativista",
+                "creditos": 6,
+                "area": "\u00c1rea Relatividad, Cosmolog\u00eda y Gravitaci\u00f3n"
+            }
+        },
+        {
+            "temas selectos de relatividad, cosmologia y gravitacion i": {
+                "nombre_og": "Temas Selectos de Relatividad, Cosmolog\u00eda y Gravitaci\u00f3n I",
+                "creditos": 6,
+                "area": "\u00c1rea Relatividad, Cosmolog\u00eda y Gravitaci\u00f3n"
+            }
+        },
+        {
+            "temas selectos de relatividad, cosmologia y gravitacion ii": {
+                "nombre_og": "Temas Selectos de Relatividad, Cosmolog\u00eda y Gravitaci\u00f3n II",
+                "creditos": 6,
+                "area": "\u00c1rea Relatividad, Cosmolog\u00eda y Gravitaci\u00f3n"
+            }
+        },
+        {
+            "temas selectos de relatividad, cosmologia y gravitacion iii": {
+                "nombre_og": "Temas Selectos de Relatividad, Cosmolog\u00eda y Gravitaci\u00f3n III",
+                "creditos": 6,
+                "area": "\u00c1rea Relatividad, Cosmolog\u00eda y Gravitaci\u00f3n"
+            }
+        },
+        {
+            "introduccion a la fotografia cientifica": {
+                "nombre_og": "Introducci\u00f3n a la Fotograf\u00eda Cient\u00edfica",
+                "creditos": 9,
+                "area": "\u00c1rea T\u00e9cnicas Especiales"
+            }
+        },
+        {
+            "fotografia digital": {
+                "nombre_og": "Fotograf\u00eda Digital",
+                "creditos": 9,
+                "area": "\u00c1rea T\u00e9cnicas Especiales"
+            }
+        },
+        {
+            "temas selectos de fotografia": {
+                "nombre_og": "Temas Selectos de Fotograf\u00eda",
+                "creditos": 9,
+                "area": "\u00c1rea T\u00e9cnicas Especiales"
+            }
+        },
+        {
+            "taller": {
+                "nombre_og": "Taller",
+                "creditos": 6,
+                "area": "\u00c1rea T\u00e9cnicas Especiales"
+            }
+        },
+        {
+            "aplicaciones de taller": {
+                "nombre_og": "Aplicaciones de Taller",
+                "creditos": 6,
+                "area": "\u00c1rea T\u00e9cnicas Especiales"
+            }
+        },
+        {
+            "introduccion a la tecnologia de vacio y aplicaciones": {
+                "nombre_og": "Introducci\u00f3n a la Tecnolog\u00eda de Vac\u00edo y Aplicaciones",
+                "creditos": 9,
+                "area": "\u00c1rea T\u00e9cnicas Especiales"
+            }
+        },
+        {
+            "tecnicas de crecimiento de peliculas delgadas y": {
+                "nombre_og": "T\u00e9cnicas de Crecimiento de Pel\u00edculas Delgadas y",
+                "creditos": 9,
+                "area": "\u00c1rea T\u00e9cnicas Especiales"
+            }
+        },
+        {
+            "temas selectos de tecnologia del vacio i": {
+                "nombre_og": "Temas Selectos de Tecnolog\u00eda del Vac\u00edo I",
+                "creditos": 6,
+                "area": "Recubrimiento en Vac\u00edo"
+            }
+        },
+        {
+            "temas selectos de tecnologia del vacio ii": {
+                "nombre_og": "Temas Selectos de Tecnolog\u00eda del Vac\u00edo II",
+                "creditos": 6,
+                "area": "Recubrimiento en Vac\u00edo"
+            }
+        },
+        {
+            "fenomenos cooperativos i": {
+                "nombre_og": "Fen\u00f3menos Cooperativos I",
+                "creditos": 6,
+                "area": "\u00c1rea Termodin\u00e1mica y F\u00edsica Estad\u00edstica"
+            }
+        },
+        {
+            "fenomenos cooperativos ii": {
+                "nombre_og": "Fen\u00f3menos Cooperativos II",
+                "creditos": 6,
+                "area": "\u00c1rea Termodin\u00e1mica y F\u00edsica Estad\u00edstica"
+            }
+        },
+        {
+            "temas selectos de termodinamica y fisica estadistica i": {
+                "nombre_og": "Temas Selectos de Termodin\u00e1mica y F\u00edsica Estad\u00edstica I",
+                "creditos": 6,
+                "area": "\u00c1rea Termodin\u00e1mica y F\u00edsica Estad\u00edstica"
+            }
+        },
+        {
+            "temas selectos de termodinamica y fisica estadistica ii": {
+                "nombre_og": "Temas Selectos de Termodin\u00e1mica y F\u00edsica Estad\u00edstica II",
+                "creditos": 6,
+                "area": "\u00c1rea Termodin\u00e1mica y F\u00edsica Estad\u00edstica"
+            }
+        },
+        {
+            "temas selectos de termodinamica y fisica estadistica iii": {
+                "nombre_og": "Temas Selectos de Termodin\u00e1mica y F\u00edsica Estad\u00edstica III",
+                "creditos": 6,
+                "area": "\u00c1rea Termodin\u00e1mica y F\u00edsica Estad\u00edstica"
+            }
+        }
+    ]
+}

@@ -1,0 +1,452 @@
+{
+    "introduccion a la fisica del cuerpo humano": {
+        "nombre_og": "Introducci\u00f3n a la F\u00edsica del Cuerpo Humano",
+        "creditos": 10,
+        "area": "obligatoria",
+        "semestre": "primer"
+    },
+    "metodologia de la fisica experimental": {
+        "nombre_og": "Metodolog\u00eda de la F\u00edsica Experimental",
+        "creditos": 8,
+        "area": "obligatoria",
+        "semestre": "primer"
+    },
+    "calculo diferencial e integral i": {
+        "nombre_og": "C\u00e1lculo Diferencial e Integral I",
+        "creditos": 14,
+        "area": "obligatoria",
+        "semestre": "primer"
+    },
+    "algebra": {
+        "nombre_og": "\u00c1lgebra",
+        "creditos": 8,
+        "area": "obligatoria",
+        "semestre": "primer"
+    },
+    "ingles": {
+        "nombre_og": "Ingl\u00e9s",
+        "creditos": 4,
+        "area": "obligatoria",
+        "semestre": "sexto"
+    },
+    "mecanica vectorial": {
+        "nombre_og": "Mec\u00e1nica Vectorial",
+        "creditos": 12,
+        "area": "obligatoria",
+        "semestre": "segundo"
+    },
+    "medicion y analisis en la fisica experimental": {
+        "nombre_og": "Medici\u00f3n y An\u00e1lisis en la F\u00edsica Experimental",
+        "creditos": 8,
+        "area": "obligatoria",
+        "semestre": "segundo"
+    },
+    "calculo diferencial e integral ii": {
+        "nombre_og": "C\u00e1lculo Diferencial e Integral II",
+        "creditos": 14,
+        "area": "obligatoria",
+        "semestre": "segundo"
+    },
+    "geometria analitica i": {
+        "nombre_og": "Geometr\u00eda Anal\u00edtica I",
+        "creditos": 8,
+        "area": "obligatoria",
+        "semestre": "segundo"
+    },
+    "bioquimica": {
+        "nombre_og": "Bioqu\u00edmica",
+        "creditos": 8,
+        "area": "obligatoria",
+        "semestre": "segundo"
+    },
+    "fenomenos colectivos": {
+        "nombre_og": "Fen\u00f3menos Colectivos",
+        "creditos": 12,
+        "area": "obligatoria",
+        "semestre": "tercer"
+    },
+    "instrumentacion y calibracion": {
+        "nombre_og": "Instrumentaci\u00f3n y Calibraci\u00f3n",
+        "creditos": 8,
+        "area": "obligatoria",
+        "semestre": "tercer"
+    },
+    "calculo avanzado": {
+        "nombre_og": "C\u00e1lculo Avanzado",
+        "creditos": 16,
+        "area": "obligatoria",
+        "semestre": "tercer"
+    },
+    "algebra lineal": {
+        "nombre_og": "\u00c1lgebra Lineal",
+        "creditos": 8,
+        "area": "obligatoria",
+        "semestre": "tercer"
+    },
+    "morfofuncional i": {
+        "nombre_og": "Morfofuncional I",
+        "creditos": 8,
+        "area": "obligatoria",
+        "semestre": "tercer"
+    },
+    "electromagnetismo i": {
+        "nombre_og": "Electromagnetismo I",
+        "creditos": 12,
+        "area": "obligatoria",
+        "semestre": "cuarto"
+    },
+    "elaboracion y desarrollo de proyectos experimentales": {
+        "nombre_og": "Elaboraci\u00f3n y Desarrollo de Proyectos Experimentales",
+        "creditos": 8,
+        "area": "obligatoria",
+        "semestre": "cuarto"
+    },
+    "algoritmos computacionales": {
+        "nombre_og": "Algoritmos Computacionales",
+        "creditos": 6,
+        "area": "obligatoria",
+        "semestre": "cuarto"
+    },
+    "ecuaciones diferenciales i": {
+        "nombre_og": "Ecuaciones Diferenciales I",
+        "creditos": 8,
+        "area": "obligatoria",
+        "semestre": "cuarto"
+    },
+    "morfofuncional ii": {
+        "nombre_og": "Morfofuncional II",
+        "creditos": 6,
+        "area": "obligatoria",
+        "semestre": "cuarto"
+    },
+    "optativa (humanidades)": {
+        "nombre_og": "Optativa (Humanidades)",
+        "creditos": 4,
+        "area": "obligatoria",
+        "semestre": "cuarto"
+    },
+    "optica": {
+        "nombre_og": "\u00d3ptica",
+        "creditos": 12,
+        "area": "obligatoria",
+        "semestre": "quinto"
+    },
+    "introduccion a la fisica cuantica": {
+        "nombre_og": "Introducci\u00f3n a la F\u00edsica Cu\u00e1ntica",
+        "creditos": 12,
+        "area": "obligatoria",
+        "semestre": "quinto"
+    },
+    "fisica computacional": {
+        "nombre_og": "F\u00edsica Computacional",
+        "creditos": 10,
+        "area": "obligatoria",
+        "semestre": "quinto"
+    },
+    "matematicas avanzadas": {
+        "nombre_og": "Matem\u00e1ticas Avanzadas",
+        "creditos": 10,
+        "area": "obligatoria",
+        "semestre": "quinto"
+    },
+    "anatomia radiologica": {
+        "nombre_og": "Anatom\u00eda Radiol\u00f3gica",
+        "creditos": 6,
+        "area": "obligatoria",
+        "semestre": "quinto"
+    },
+    "electromagnetismo ii": {
+        "nombre_og": "Electromagnetismo II",
+        "creditos": 12,
+        "area": "obligatoria",
+        "semestre": "sexto"
+    },
+    "interaccion de la radiacion con la materia": {
+        "nombre_og": "Interacci\u00f3n de la Radiaci\u00f3n con la Materia",
+        "creditos": 12,
+        "area": "obligatoria",
+        "semestre": "sexto"
+    },
+    "termofisica": {
+        "nombre_og": "Termof\u00edsica",
+        "creditos": 12,
+        "area": "obligatoria",
+        "semestre": "sexto"
+    },
+    "bioestadistica": {
+        "nombre_og": "Bioestad\u00edstica",
+        "creditos": 5,
+        "area": "obligatoria",
+        "semestre": "sexto"
+    },
+    "fisica del cuerpo humano": {
+        "nombre_og": "F\u00edsica del Cuerpo Humano",
+        "creditos": 10,
+        "area": "obligatoria",
+        "semestre": "sexto"
+    },
+    "mecanica cuantica": {
+        "nombre_og": "Mec\u00e1nica Cu\u00e1ntica",
+        "creditos": 12,
+        "area": "obligatoria",
+        "semestre": "s\u00e9ptimo"
+    },
+    "instrumentacion biomedica": {
+        "nombre_og": "Instrumentaci\u00f3n Biom\u00e9dica",
+        "creditos": 8,
+        "area": "obligatoria",
+        "semestre": "s\u00e9ptimo"
+    },
+    "introduccion a la oncologia": {
+        "nombre_og": "Introducci\u00f3n a la Oncolog\u00eda",
+        "creditos": 6,
+        "area": "obligatoria",
+        "semestre": "s\u00e9ptimo"
+    },
+    "seguridad radiologica": {
+        "nombre_og": "Seguridad Radiol\u00f3gica",
+        "creditos": 9,
+        "area": "obligatoria",
+        "semestre": "octavo"
+    },
+    "imagenologia biomedica": {
+        "nombre_og": "Imagenolog\u00eda Biom\u00e9dica",
+        "creditos": 9,
+        "area": "obligatoria",
+        "semestre": "octavo"
+    },
+    "sistemas hibridos en biomedicina": {
+        "nombre_og": "Sistemas H\u00edbridos en Biomedicina",
+        "creditos": 6,
+        "area": "Ciencias M\u00e9dicas y de la Salud",
+        "semestre": "profundizacion"
+    },
+    "dosimetria": {
+        "nombre_og": "Dosimetr\u00eda",
+        "creditos": 9,
+        "area": "Ciencias M\u00e9dicas y de la Salud",
+        "semestre": "profundizacion"
+    },
+    "fisica biologica": {
+        "nombre_og": "F\u00edsica Biol\u00f3gica",
+        "creditos": 12,
+        "area": "Ciencias Biol\u00f3gicas",
+        "semestre": "profundizacion"
+    },
+    "sistemas dinamicos de la fisiologia": {
+        "nombre_og": "Sistemas Din\u00e1micos de la Fisiolog\u00eda",
+        "creditos": 9,
+        "area": "Ciencias Biol\u00f3gicas",
+        "semestre": "profundizacion"
+    },
+    "historia y filosofia del pensamiento cientifico": {
+        "nombre_og": "Historia y Filosof\u00eda del Pensamiento Cient\u00edfico",
+        "creditos": 4,
+        "area": "Humanidades",
+        "semestre": "optativa"
+    },
+    "ciencia, tecnologia y sociedad": {
+        "nombre_og": "Ciencia, Tecnolog\u00eda y Sociedad",
+        "creditos": 4,
+        "area": "Humanidades",
+        "semestre": "optativa"
+    },
+    "filosofia de la tecnologia": {
+        "nombre_og": "Filosof\u00eda de la Tecnolog\u00eda",
+        "creditos": 4,
+        "area": "Humanidades",
+        "semestre": "optativa"
+    },
+    "filosofia de la ciencia": {
+        "nombre_og": "Filosof\u00eda de la Ciencia",
+        "creditos": 4,
+        "area": "Humanidades",
+        "semestre": "optativa"
+    },
+    "las relaciones interpersonales en el ambiente hospitalario": {
+        "nombre_og": "Las Relaciones Interpersonales en el Ambiente Hospitalario",
+        "creditos": 4,
+        "area": "Humanidades",
+        "semestre": "optativa"
+    },
+    "mexico nacion multicultural": {
+        "nombre_og": "M\u00e9xico Naci\u00f3n Multicultural",
+        "creditos": 4,
+        "area": "Humanidades",
+        "semestre": "optativa"
+    },
+    "bioetica": {
+        "nombre_og": "Bio\u00e9tica",
+        "creditos": 4,
+        "area": "Humanidades",
+        "semestre": "optativa"
+    },
+    "radiobiologia": {
+        "nombre_og": "Radiobiolog\u00eda",
+        "creditos": 6,
+        "area": "Ciencias M\u00e9dicas y de la Salud",
+        "semestre": "optativa"
+    },
+    "fisica de la resonancia magnetica": {
+        "nombre_og": "F\u00edsica de la Resonancia Magn\u00e9tica",
+        "creditos": 6,
+        "area": "Ciencias M\u00e9dicas y de la Salud",
+        "semestre": "optativa"
+    },
+    "fisica del ultrasonido medico": {
+        "nombre_og": "F\u00edsica del Ultrasonido M\u00e9dico",
+        "creditos": 9,
+        "area": "Ciencias M\u00e9dicas y de la Salud",
+        "semestre": "optativa"
+    },
+    "reconstruccion de imagenes biomedicas": {
+        "nombre_og": "Reconstrucci\u00f3n de Im\u00e1genes Biom\u00e9dicas",
+        "creditos": 9,
+        "area": "Ciencias M\u00e9dicas y de la Salud",
+        "semestre": "optativa"
+    },
+    "biosensores": {
+        "nombre_og": "Biosensores",
+        "creditos": 9,
+        "area": "Ciencias M\u00e9dicas y de la Salud",
+        "semestre": "optativa"
+    },
+    "fisica de la radioterapia": {
+        "nombre_og": "F\u00edsica de la Radioterapia",
+        "creditos": 6,
+        "area": "Ciencias M\u00e9dicas y de la Salud",
+        "semestre": "optativa"
+    },
+    "fisica de la medicina nuclear": {
+        "nombre_og": "F\u00edsica de la Medicina Nuclear",
+        "creditos": 6,
+        "area": "Ciencias M\u00e9dicas y de la Salud",
+        "semestre": "optativa"
+    },
+    "fisica del radiodiagnostico": {
+        "nombre_og": "F\u00edsica del Radiodiagn\u00f3stico",
+        "creditos": 9,
+        "area": "Ciencias M\u00e9dicas y de la Salud",
+        "semestre": "optativa"
+    },
+    "garantia de calidad de equipos de rayos x": {
+        "nombre_og": "Garant\u00eda de Calidad de Equipos de Rayos X",
+        "creditos": 6,
+        "area": "Ciencias M\u00e9dicas y de la Salud",
+        "semestre": "optativa"
+    },
+    "temas selectos en instrumentacion biomedica": {
+        "nombre_og": "Temas Selectos en Instrumentaci\u00f3n Biom\u00e9dica",
+        "creditos": 6,
+        "area": "Ciencias M\u00e9dicas y de la Salud",
+        "semestre": "optativa"
+    },
+    "temas selectos en fisica de la terapia medica": {
+        "nombre_og": "Temas Selectos en F\u00edsica de la Terapia M\u00e9dica",
+        "creditos": 6,
+        "area": "Ciencias M\u00e9dicas y de la Salud",
+        "semestre": "optativa"
+    },
+    "temas selectos en fisica del diagnostico medico": {
+        "nombre_og": "Temas Selectos en F\u00edsica del Diagn\u00f3stico M\u00e9dico",
+        "creditos": 6,
+        "area": "Ciencias M\u00e9dicas y de la Salud",
+        "semestre": "optativa"
+    },
+    "dinamica de biofluidos": {
+        "nombre_og": "Din\u00e1mica de Biofluidos",
+        "creditos": 9,
+        "area": "Ciencias Biol\u00f3gicas",
+        "semestre": "optativa"
+    },
+    "biomateriales": {
+        "nombre_og": "Biomateriales",
+        "creditos": 9,
+        "area": "Ciencias Biol\u00f3gicas",
+        "semestre": "optativa"
+    },
+    "biofotonica": {
+        "nombre_og": "Biofot\u00f3nica",
+        "creditos": 9,
+        "area": "Ciencias Biol\u00f3gicas",
+        "semestre": "optativa"
+    },
+    "electrofisiologia": {
+        "nombre_og": "Electrofisiolog\u00eda",
+        "creditos": 6,
+        "area": "Ciencias Biol\u00f3gicas",
+        "semestre": "optativa"
+    },
+    "ecuaciones diferenciales parciales": {
+        "nombre_og": "Ecuaciones Diferenciales Parciales",
+        "creditos": 9,
+        "area": "Ciencias Biol\u00f3gicas",
+        "semestre": "optativa"
+    },
+    "aplicaciones de la histologia en la neuropatologia": {
+        "nombre_og": "Aplicaciones de la Histolog\u00eda en la Neuropatolog\u00eda",
+        "creditos": 4,
+        "area": "Ciencias Biol\u00f3gicas",
+        "semestre": "optativa"
+    },
+    "teoria celular": {
+        "nombre_og": "Teor\u00eda Celular",
+        "creditos": 4,
+        "area": "Ciencias Biol\u00f3gicas",
+        "semestre": "optativa"
+    },
+    "introduccion a la antropologia fisica y forense": {
+        "nombre_og": "Introducci\u00f3n a la Antropolog\u00eda F\u00edsica y Forense",
+        "creditos": 4,
+        "area": "Ciencias Biol\u00f3gicas",
+        "semestre": "optativa"
+    },
+    "epigenetica": {
+        "nombre_og": "Epigen\u00e9tica",
+        "creditos": 4,
+        "area": "Ciencias Biol\u00f3gicas",
+        "semestre": "optativa"
+    },
+    "genomica viral": {
+        "nombre_og": "Gen\u00f3mica Viral",
+        "creditos": 4,
+        "area": "Ciencias Biol\u00f3gicas",
+        "semestre": "optativa"
+    },
+    "fisiopatologia de la hiperexcitabilidad neuronal": {
+        "nombre_og": "Fisiopatolog\u00eda de la Hiperexcitabilidad Neuronal",
+        "creditos": 4,
+        "area": "Ciencias Biol\u00f3gicas",
+        "semestre": "optativa"
+    },
+    "temas selectos en fisica biologica": {
+        "nombre_og": "Temas Selectos en F\u00edsica Biol\u00f3gica",
+        "creditos": 6,
+        "area": "Ciencias Biol\u00f3gicas",
+        "semestre": "optativa"
+    },
+    "temas selectos en biofisica": {
+        "nombre_og": "Temas Selectos en Biof\u00edsica",
+        "creditos": 6,
+        "area": "Ciencias Biol\u00f3gicas",
+        "semestre": "optativa"
+    },
+    "temas selectos en computo de alto desempe\u00f1o": {
+        "nombre_og": "Temas Selectos en C\u00f3mputo de Alto Desempe\u00f1o",
+        "creditos": 6,
+        "area": "Ciencias Biol\u00f3gicas",
+        "semestre": "optativa"
+    },
+    "temas selectos en biomatematicas": {
+        "nombre_og": "Temas Selectos en Biomatem\u00e1ticas",
+        "creditos": 6,
+        "area": "Ciencias Biol\u00f3gicas",
+        "semestre": "optativa"
+    },
+    "termodinamica y sistemas biologicos": {
+        "nombre_og": "Termodin\u00e1mica y Sistemas Biol\u00f3gicos",
+        "creditos": 6,
+        "area": "Ciencias Biol\u00f3gicas",
+        "semestre": "optativa"
+    }
+}

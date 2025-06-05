@@ -7,7 +7,7 @@ def unaccent(string):
         string = string.replace(original, replacement)
     return string
 
-carrera = 'biomedica'
+carrera = 'fisica'
 filename = f'cursos_{carrera}_raw.txt'
 
 subjects_dict = {}
@@ -27,19 +27,21 @@ for line in data:
 			semestre = 'optativa'
 		if "PROFUNDIZACIÓN" in line:
 			semestre = 'profundizacion'
+		key = unaccent(line)
+		subjects_dict[key] = []
 		continue
 	if "--" in line:
 		area = line.replace('--', '')
 		continue
 	creditos, nombre_og = int(line.split(' ')[0]), ' '.join(line.split(' ')[1:])
 	nombre = unaccent(nombre_og.lower().replace('\n', '').strip())
-	subjects_dict[nombre] = {'nombre_og': nombre_og, 'creditos': creditos,
-							 'area': area, 'semestre': semestre}
+	subjects_dict[key].append({nombre: {'nombre_og': nombre_og,
+							   'creditos': creditos, 'area': area}})
 	subjects_names.append([semestre, area, creditos, nombre_og, nombre])
 
-with open(f'cursos_{carrera}.json', 'w') as file:
+with open(f'cursos_{carrera}_dict.json', 'w') as file:
 	json.dump(subjects_dict, file, indent=4)
 
-with open(f'cursos_{carrera}.csv', 'w', newline='', encoding='utf-8') as file:
+with open(f'cursos_{carrera}_nombres.csv', 'w', newline='', encoding='utf-8') as file:
 	writer = csv.writer(file)
 	writer.writerows(subjects_names)
